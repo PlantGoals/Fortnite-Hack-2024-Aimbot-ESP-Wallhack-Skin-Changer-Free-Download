@@ -24,21 +24,21 @@ The hack is designed to be undetectable, easy to use, and compatible with the la
 
 ## Features
 
-### Advanced Aimbot
+### Fortnite Advanced Aimbot
 - **Auto-Lock Targets**: Precise targeting for instant eliminations.
 - **Smooth Aim**: Natural movement to avoid detection.
 - **Headshot Priority**: Land devastating shots with ease.
 
-### ESP (Extra Sensory Perception)
+### Fortnite ESP (Extra Sensory Perception)
 - **Player ESP**: See enemies through walls and obstacles.
 - **Item ESP**: Locate weapons, ammo, and loot instantly.
 - **Distance ESP**: Gauge how far enemies and items are from you.
 
-### Wallhack
+### Fortnite Wallhack
 - **Visibility Through Walls**: Track enemies in real time.
 - **Customizable View**: Adjust transparency and colors for better visibility.
 
-### No Recoil and No Spread
+### Fortnite No Recoil and No Spread
 - **Perfect Accuracy**: Eliminate weapon recoil and bullet spread.
 - **Laser-Like Shots**: Hit your target every time.
 
